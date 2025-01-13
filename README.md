@@ -33,11 +33,25 @@ This course material is licensed under a Creative Commons Attribution 4.0 Intern
 
 ## References
 
+- [Geocomputation with R](https://r.geocompx.org/)
+- [Statistical Inference via Data Science](https://moderndive.com/)
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [Text Mining with R](https://www.tidytextmining.com/)
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+- [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+- [Efficient R programming](https://csgillespie.github.io/efficientR/)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Data Visualization](https://socviz.co/)
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [R Packages (2e)](https://r-pkgs.org/)
 
-- Gandhi, Ujaval, 2023. Advanced Concepts in Google Earth Engine course. Spatial Thoughts. https://courses.spatialthoughts.com/gee-advanced.html
-- Gandhi, Ujaval, 2021. End-to-End Google Earth Engine Course. Spatial Thoughts. https://courses.spatialthoughts.com/end-to-end-gee.html
-- Gandhi, Ujaval, 2023. Creating Publication Quality Charts with GEE Course. Spatial Thoughts. https://courses.spatialthoughts.com/gee-charts.html
-
+  
 ## Additional resources
 
 - [Geospatial Software Design](https://resources.environment.yale.edu/courses/detail/754)

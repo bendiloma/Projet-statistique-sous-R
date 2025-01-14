@@ -54,7 +54,4 @@ This course material is licensed under a Creative Commons Attribution 4.0 Intern
   
 ## Additional resources
 
-- [Geospatial Software Design](https://resources.environment.yale.edu/courses/detail/754)
-- [Google Earth Engine API documentation](https://developers.google.com/earth-engine/)
-- [Google Earth Engine Developers forum](https://groups.google.com/g/google-earth-engine-developers)
-- [Example scripts from Prof. Dana Tomlin’s handouts for his course on Geospatial Software Design](https://github.com/gee-community/example-scripts)
+
